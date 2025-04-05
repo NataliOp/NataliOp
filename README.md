@@ -1,5 +1,13 @@
-## Hi there 👋
+<h2 align="center">Привет, меня зовут Наталья👋</h2>
 
+<p align="center">
+  <a href="[https://t.me/yourusername](https://t.me/ilvsndvch)">
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="[https://wa.me/yourphonenumbe](https://wa.me/79614116096)r">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 <!--
 **NataliOp/NataliOp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
