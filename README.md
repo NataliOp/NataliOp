@@ -21,11 +21,14 @@
 | Анализ результатов A/B-теста ([github](https://github.com/NataliOp/ab-testing)) | Расчет ARPU, формулирование и проверка гипотезы (A/A-тест - t-test, Bootstrap) | pandas, numpy, scipy, matplotlib, seaborn |
 | Исследование нового алгоритма для приложения ([github](https://github.com/NataliOp/dating-new-algorithm)) | Анализ результатов A/B-теста с помощью: t-test Стьюдента, t-test Уэлча | pandas, scipy, requests, seaborn, matplotlib |
 | EdTech ([github](https://github.com/NataliOp/edtech)) | Анализ данных онлайн-школы. Проведение RFM-сегментации. | pandas, requests, matplotlib, seaborn |
+| Дашборд ([Yandex DataLens](https://datalens.yandex/sx15id2uotzke)) | Обзор финансовых показателей по данным компании в сфере красоты | Yandex DataLens |
 
-## 🛠️ Languages and Tools 
+## 🛠️ Языки и инструменты 
 
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
 ![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
+![Yandex DataLens](https://img.shields.io/badge/-Yandex%20DataLens-FF0000?style=for-the-badge&logo=Yandex&logoColor=white)
+
