@@ -26,9 +26,18 @@
 ## 🛠️ Языки и инструменты 
 
 ![Python](https://img.shields.io/badge/-Python-FFF?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge)
+![Numpy](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge)
+![Scipy](https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/-Jupyter_Notebook-FFF?style=for-the-badge&logo=Jupyter)
+![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
 ![EXCEL](https://img.shields.io/badge/-Google_Sheets-FFF?style=for-the-badge&logo=GoogleSheets)
 ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)
 ![API](https://img.shields.io/badge/-API-FF6600?style=for-the-badge&logo=API)
 ![Yandex DataLens](https://img.shields.io/badge/-Yandex%20DataLens-FF0000?style=for-the-badge&logo=Yandex&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=sql&logoColor=white)
+![Redash](https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge)
+![MSSQL](https://img.shields.io/badge/MSSQL-white?logo=microsoftsqlserver&logoColor=black&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-white?logo=tableau&logoColor=black&style=for-the-badge)
 
