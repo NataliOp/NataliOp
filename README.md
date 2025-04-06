@@ -22,6 +22,7 @@
 | Исследование нового алгоритма для приложения ([github](https://github.com/NataliOp/dating-new-algorithm)) | Анализ результатов A/B-теста с помощью: t-test Стьюдента, t-test Уэлча | pandas, scipy, requests, seaborn, matplotlib |
 | EdTech ([github](https://github.com/NataliOp/edtech)) | Анализ данных онлайн-школы. Проведение RFM-сегментации. | pandas, requests, matplotlib, seaborn |
 | Дашборд ([Yandex DataLens](https://datalens.yandex/sx15id2uotzke)) | Обзор финансовых показателей по данным компании в сфере красоты | Yandex DataLens |
+| Аналитика данных киноиндустрии с использованием PostgreSQL и Python ([github](https://github.com/NataliOp/pagila)) | Анализ продаж и выручки по фильмам, странам. Проведение когортного анализа.  | PostgreSQL, sqlalchemy, pandas, numpy, seaborn, matplotlib |
 
 ## 🛠️ Языки и инструменты 
 
